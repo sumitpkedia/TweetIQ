@@ -1,0 +1,5 @@
+C:\Sumeet\Prep\Samples2016\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Sumeet\Prep\Samples2016\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Sumeet\Prep\Samples2016\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Sumeet\Prep\Samples2016\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Sumeet\Prep\Samples2016\ClientApplication\obj\Debug\ClientApplication.pdb
